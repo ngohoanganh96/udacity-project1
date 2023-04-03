@@ -1,0 +1,7 @@
+# Source for the following rules: https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+.vscode/
+__pycache__/
+AutogluonModels/
+root/.kaggle/
+
+
